@@ -1,6 +1,6 @@
 I joined Github **8** years ago.
 
-Since then I've pushed **2819** commits, opened **27** issues, submitted **89** pull requests, received **25** stars across **50** personal projects and contributed to **13** public repositories.
+Since then I've pushed **2821** commits, opened **27** issues, submitted **89** pull requests, received **25** stars across **51** personal projects and contributed to **13** public repositories.
 
 Most used languages across my projects:
 
@@ -9,7 +9,7 @@ Most used languages across my projects:
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B12.5%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.2%25)
 ![TeX](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233D6117&message=TeX%EF%B8%B11.2%25)
-![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.1%25)
+![Python](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%233572A5&message=Python%EF%B8%B11.2%25)
 ![Shell](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%2389e051&message=Shell%EF%B8%B10.2%25)
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.4%25)
 
