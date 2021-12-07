@@ -1,10 +1,10 @@
 I joined Github **8** years ago.
 
-Since then I've pushed **3317** commits, opened **35** issues, submitted **104** pull requests, received **32** stars across **64** personal projects and contributed to **30** public repositories.
+Since then I've pushed **3319** commits, opened **35** issues, submitted **104** pull requests, received **32** stars across **65** personal projects and contributed to **30** public repositories.
 
 Most used languages across my projects:
 
-![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B152.7%25)
+![HTML](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23e34c26&message=HTML%EF%B8%B152.6%25)
 ![Jupyter Notebook](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23DA5B0B&message=Jupyter%20Notebook%EF%B8%B138.8%25)
 ![C#](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23178600&message=C%23%EF%B8%B12.5%25)
 ![C++](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23f34b7d&message=C%2B%2B%EF%B8%B12.3%25)
