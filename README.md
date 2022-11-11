@@ -1,6 +1,6 @@
 I joined Github **9** years ago.
 
-Since then I've pushed **3711** commits, opened **40** issues, submitted **112** pull requests, received **44** stars across **82** personal projects and contributed to **13** public repositories.
+Since then I've pushed **3712** commits, opened **40** issues, submitted **112** pull requests, received **45** stars across **82** personal projects and contributed to **13** public repositories.
 
 Most used languages across my projects:
 
@@ -14,3 +14,5 @@ Most used languages across my projects:
 ![Other](https://img.shields.io/static/v1?style=flat-square&label=%E2%A0%80&color=555&labelColor=%23ededed&message=Other%EF%B8%B10.6%25)
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+
+I'm on <a rel="me" href="https://fosstodon.org/@davidchan">Mastodon</a>
