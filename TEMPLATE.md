@@ -9,3 +9,5 @@ Most used languages across my projects:
 {{ LANGUAGE_TEMPLATE_END }}
 
 <p align="right"><sub>Generated using <a href="https://github.com/marketplace/actions/profile-readme-stats">teoxoy/profile-readme-stats</a></sub></p>
+
+I'm on <a rel="me" href="https://fosstodon.org/@davidchan">Mastodon</a>
